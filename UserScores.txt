@@ -1,0 +1,12 @@
+kıvanç,400
+emre,280
+kıvanç,140
+cano,40
+filiz,0
+filiz,300
+basarovski,0
+basarovski,20
+egemen,320
+egemen,220
+emre,300
+emre,780
